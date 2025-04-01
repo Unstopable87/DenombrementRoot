@@ -11,3 +11,10 @@ G:\Mes cours\CNED POITIERS\productions\cned\BTS SIO 2020\B1\B1_2 SLAM\seq1\seanc
 G:\Mes cours\CNED POITIERS\productions\cned\BTS SIO 2020\B1\B1_2 SLAM\seq1\seance2\OA\fichiers\Denombrements\Denombrements\obj\Debug\Denombrements.csproj.CoreCompileInputs.cache
 G:\Mes cours\CNED POITIERS\productions\cned\BTS SIO 2020\B1\B1_2 SLAM\seq1\seance2\OA\fichiers\Denombrements\Denombrements\obj\Debug\Denombrements.exe
 G:\Mes cours\CNED POITIERS\productions\cned\BTS SIO 2020\B1\B1_2 SLAM\seq1\seance2\OA\fichiers\Denombrements\Denombrements\obj\Debug\Denombrements.pdb
+D:\Projet Denombrement\Denombrements\Denombrements\Denombrements\bin\Debug\Denombrements.exe.config
+D:\Projet Denombrement\Denombrements\Denombrements\Denombrements\bin\Debug\Denombrements.exe
+D:\Projet Denombrement\Denombrements\Denombrements\Denombrements\bin\Debug\Denombrements.pdb
+D:\Projet Denombrement\Denombrements\Denombrements\Denombrements\obj\Debug\Denombrements.csproj.AssemblyReference.cache
+D:\Projet Denombrement\Denombrements\Denombrements\Denombrements\obj\Debug\Denombrements.csproj.CoreCompileInputs.cache
+D:\Projet Denombrement\Denombrements\Denombrements\Denombrements\obj\Debug\Denombrements.exe
+D:\Projet Denombrement\Denombrements\Denombrements\Denombrements\obj\Debug\Denombrements.pdb
